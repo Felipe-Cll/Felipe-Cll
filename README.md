@@ -1,7 +1,7 @@
 ## Olá! eu sou o Felipe </> 🐱‍👤
 
 - 🌱 Atualmente estou estudando tecnologias voltadas ao Front-End
-- 👨‍💻 Objetivando me tornar um Desenvolvedor Fullstack
+- 👨‍💻 Adquirindo conhecimentos sobre diferentes linguagens e ferramentas para uma solução de conflitos eficaz.
 
 <div>
     <a href="https://github.com/LipeCll">
