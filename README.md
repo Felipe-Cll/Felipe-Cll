@@ -7,6 +7,7 @@
     <a href="https://github.com/LipeCll">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LipeCll&show_icons=true&theme=dark"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeCll&layout=compact&theme=dark"/>
+    </a>
 </div>
 
 <div style="display: inline_block"><br>
