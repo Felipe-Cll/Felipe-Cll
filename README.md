@@ -1,7 +1,8 @@
-## Olá! eu sou o Felipe </> 🐱‍👤
+## Welcome to my fun! I'm Felipe </> 🐱‍👤
 
-- 🌱 Atualmente estou estudando tecnologias voltadas ao Front-End
-- 👨‍💻 Adquirindo conhecimento sobre diferentes linguagens e ferramentas para soluções de conflitos eficaz.
+- 🌱 I am currently studying technologies aimed at the Front-End.
+- 👨‍💻 I like to acquire knowledge about different languages and tools to know how to deal with any problem.
+- 🔭 I'm a technology enthusiast.
 
 <div>
     <a href="https://github.com/LipeCll">
