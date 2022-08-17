@@ -3,6 +3,7 @@
 - 🌱 I am currently studying technologies aimed at the Front-End.
 - 👨‍💻 I like to acquire knowledge about different languages and tools to know how to deal with any problem.
 - 🔭 I'm a technology enthusiast.
+- 📫 How to reach me: FelipeDev01@outlook.com
 
 <div>
     <a href="https://github.com/LipeCll">
