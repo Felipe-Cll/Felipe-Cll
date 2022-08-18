@@ -7,8 +7,8 @@
 
 <div>
     <a href="https://github.com/LipeCll">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LipeCll&show_icons=true&theme=dark"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeCll&layout=compact&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Cll&show_icons=true&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Cll&layout=compact&theme=dark"/>
     </a>
 </div>
 
@@ -33,4 +33,4 @@
     <a href="https://discord.gg/vx9Edn2uTr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/LipeCll/LipeCll/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Felipe-Cll/Felipe-Cll/blob/output/github-contribution-grid-snake.svg)
