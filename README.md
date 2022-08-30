@@ -1,9 +1,9 @@
-## Welcome to my fun! I'm Felipe </> 🐱‍👤
+## Bem-vindo a minha diversão! Eu sou o Felipe </> 🐱‍👤
 
-- 🌱 I am currently studying technologies aimed at the Front-End.
-- 👨‍💻 I like to acquire knowledge about different languages and tools to know how to deal with any problem.
-- 🔭 I'm a technology enthusiast.
-- 📫 How to reach me: Felipedev001@gmail.com
+- 🌱 Atualmente estou estudando tecnologias voltadas para o Front-End.
+- 👨‍💻 Gosto de adquirir conhecimentos sobre diferentes linguagens e ferramentas para saber lidar com qualquer problema.
+- 🔭 Sou um entusiasta da tecnologia.
+- 📫 Como entrar em contato comigo: Felipedev001@gmail.com
 
 <div>
     <a href="https://github.com/Felipe-Cll">
