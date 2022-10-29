@@ -1,7 +1,7 @@
 ## Bem-vindo a minha diversão! Eu sou o Felipe </> 🐱‍👤
 
-- 🌱 Atualmente estou estudando tecnologias voltadas para o Front-End.
-- 👨‍💻 Gosto de adquirir conhecimentos sobre diferentes linguagens e ferramentas para saber lidar com qualquer problema.
+- 🌱 Atualmente estou estudando a tecnologia Java e Angular.
+- 👨‍💻 Gosto de adquirir conhecimentos sobre diferentes tecnologias para saber lidar com qualquer problema.
 - 🔭 Sou um entusiasta da tecnologia.
 - 📫 Como entrar em contato comigo: Felipedev001@gmail.com
 
